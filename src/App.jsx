@@ -81,6 +81,8 @@ function App() {
               
               </Routes>
               </div>
+              <hr/>
+              <hr/>
               <Footer />
               </BrowserRouter>
             </div>
